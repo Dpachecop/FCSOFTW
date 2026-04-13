@@ -3,7 +3,6 @@
 
 Bienvenido al repositorio de la **App de Gestión de Equipos**, una solución móvil diseñada para la administración técnica de clubes, desarrollada para el primer corte de la asignatura de Desarrollo de Aplicaciones Móviles.
 
-![App Preview](https://tse1.mm.bing.net/th/id/OIP.Y9dT64Pbau04utHU8oBw7QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3)
 
 ## 🛠️ Tecnologías Utilizadas
 
